@@ -4,13 +4,21 @@ class User extends CI_Controller
 {
     public function index()
     {
-        echo "สวัสดีเจ้าคะ";
+        $this->load->view('layout/header');
+		$this->load->view('user/user');
+		$this->load->view('layout/footer');
     }
 
     public function addUser()
     {
-        $this->load->view('add_user');
+        $this->load->view('layout/header');
+		$this->load->view('user/adduser');
+		$this->load->view('layout/footer');
     }
+    //public function addUser()
+    //{
+       // $this->load->view('add_user');
+    //}
 
     // public function sayMyName($name = "Pokin",$sname = "Inkongngam"){
     //     /*$name = "ท่านกบ";*/
