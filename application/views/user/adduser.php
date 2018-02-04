@@ -1,6 +1,6 @@
 <div class="row">
             <div class="col-8">
-            <form>
+            <form action="/user/create" method="post">
                         <div class="form-group">
                         <label for="exampleInputText">ชื่อ</label>
                         <input type="name" class="form-control" id="exampleInputText" aria-describedby="textname" placeholder="กรอกชื่อ - สกุล">
