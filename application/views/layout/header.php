@@ -8,6 +8,7 @@
     <title>Jimi.com</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 
 </head>
 
@@ -23,18 +24,22 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="/">หน้าแรก
+                    
+                        <a class="nav-link" href="/">Home <i class="fas fa-home"></i>
+                        
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/user">ผู้ใช้</a>
+                        
+                        <a class="nav-link" href="/user">ผู้ใช้ <i class="fas fa-users"></i></a>
+                        
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">เว็บบอดร์</a>
+                        <a class="nav-link" href="#">เว็บบอดร์ <i class="fas fa-comment-alt"></i></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">ติดต่อ</a>
+                        <a class="nav-link" href="#">ติดต่อ <i class="far fa-envelope"></i></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">เกี่ยวกับเรา</a>
