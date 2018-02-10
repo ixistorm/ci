@@ -12,7 +12,7 @@
                     <img class="d-block w-100" src="https://images5.alphacoders.com/678/678437.jpg" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="https://vignette.wikia.nocookie.net/nekopara/images/9/96/Mainpage_%281%29.jpg/revision/latest?cb=20151223172814"
+                    <img class="d-block w-100" src="https://wallpapercave.com/wp/sz6Z1uy.jpg"
                         alt="Second slide">
                 </div>
                 <div class="carousel-item">

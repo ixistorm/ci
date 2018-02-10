@@ -7,5 +7,4 @@ class User_model extends CI_Model
         $users = $this->db->query($query);
         return $users;
     }
-    
 }
